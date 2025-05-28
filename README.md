@@ -2,7 +2,7 @@
 
 
  Basic commands 
- python -m venv env -----------------------create environment
- env\Scripts\activate --------------------activation of environment
- pip install -r requirements.txt --------- install libraries
- python app.py -----------------------------excution project 
+ 1)python -m venv env -----------------------create environment
+ 2)env\Scripts\activate --------------------activation of environment
+ 3)pip install -r requirements.txt --------- install libraries
+ 4)python app.py -----------------------------excution project 
